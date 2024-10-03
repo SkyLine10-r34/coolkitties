@@ -1,0 +1,18 @@
+#home {
+    border: 1pz solid black;
+    margin: 20px;
+}
+
+
+.header-banner_h1 {
+    font-size: 56px;
+}
+
+.header-nav_menu a {
+    text-decoration: none;
+    color: black;
+}
+
+.header-nav_menu a:hover {
+    text-decoration: underline;
+}
